@@ -2,9 +2,9 @@ Grunt-contrib-stylus(forked version) uses stylus#0.51.1
 Local stylus is #0.51.0
  
 Run 
-# npm test
-# node test
-# grunt test
+* npm test
+* node test
+* grunt test
  
 And then compare results
 
