@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "grunt-contrib-stylus": "git@github.com:cakeinpanic/grunt-contrib-stylus.git",
+    "stylus": "0.51.0",
+    "stylus-52": "git@github.com:stylus/stylus.git"
+  },
+  "scripts": {
+    "test": "stylus src.styl --out res-exec.css --include-css --resolve-url"
+  }
+}
